@@ -1,4 +1,3 @@
-
 {
   "log": {
     "loglevel": "warning"
@@ -17,10 +16,11 @@
         "decryption": "none"
       },
       "streamSettings": {
-        "network": "httpupgrade",
+        "network": "xhttp",
         "security": "none",
-        "httpupgradeSettings": {
-          "path": "/httpupgrade"
+        "xhttpSettings": {
+          "path": "/xhttp",
+          "mode": "auto"
         }
       }
     }
