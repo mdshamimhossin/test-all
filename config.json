@@ -19,7 +19,7 @@
         "network": "xhttp",
         "security": "none",
         "xhttpSettings": {
-          "path": "/HGEBUMbbnW",
+          "path": "/http",
           "mode": "auto"
         }
       }
